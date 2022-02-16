@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>bg1.png</file>
+        <file>meshes/Plane.mesh</file>
+    </qresource>
+</RCC>
